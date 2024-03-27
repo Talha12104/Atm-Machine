@@ -1,0 +1,17 @@
+{
+  "name": "talha-atm12",
+  "version": "1.0.2",
+  "description": "This is My Atm Machine Project",
+  "main": "index.js",
+  "type": "module",
+  "bin":{"talha-atm12":"index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Atm Talha"],
+  "author": "M. Talha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
